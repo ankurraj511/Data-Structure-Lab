@@ -1,0 +1,42 @@
+#include<stdio.h>
+int ins=0, desc=0;
+int insert(int a[])
+{
+	if(ins<n)	
+		scanf("%d",&a[ins++]);
+	else
+		printf("OVERFLOW\n");
+}
+int delete(int a[])
+{
+	if()
+int main()
+{
+	int n;
+	printf("ENTER THE SIZE: ");
+	scanf("%d",&n);
+	int a[n],flag=0,c,i;
+	prinf("CASE 1: INSERT ; CASE 2: DELETE ; CASE 3: EXIT\n"%);
+	while(flag==0)
+	{
+		printf("ENTER YOUR CHOISE: ");
+		scanf("%d",&c);
+		switch(c)
+		{
+			case 1:
+				insert();
+			break;
+			case 2:
+				delete();
+			break;
+			case 3:
+				flag=1;
+			break;
+			default:
+				printf("ENTER THE VALID NUMBER\n");
+		}
+	for(k=0 ; k<n ; k++)
+		printf("%d ",&a[i]);
+	}
+	return 0;
+}
