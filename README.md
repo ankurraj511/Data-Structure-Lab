@@ -1,5 +1,3 @@
-# classwork
-it is just my practice work.
+# Data Structur Lab
 
-Hey guyzz,
-this is just my practice work which i have done in 2nd Semester of my B-tech degree.
+This is my lab work which i have done in 2nd Semester of my B-tech degree.
